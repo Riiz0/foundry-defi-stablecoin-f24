@@ -42,16 +42,10 @@ This project is meant to be a stablecoin where users can deposit WETH and WBTC i
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-defi-stablecoin-f23
+git clone https://github.com/Riiz0/foundry-defi-stablecoin-f24.git
 cd foundry-defi-stablecoin-f23
 forge build
 ```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-smart-contract-lottery-f23)
 
 # Updates
 
